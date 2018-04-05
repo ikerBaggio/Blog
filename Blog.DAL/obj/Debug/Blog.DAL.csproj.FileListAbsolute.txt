@@ -1,0 +1,9 @@
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\bin\Debug\Blog.DAL.dll
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\bin\Debug\Blog.DAL.pdb
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\obj\Debug\Blog.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\obj\Debug\Blog.DAL.dll
+C:\Users\Kowalski\Downloads\Blog-master\Blog.DAL\obj\Debug\Blog.DAL.pdb
